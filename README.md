@@ -1,5 +1,5 @@
 <p align="center">
-<!-- 로고 이미지-->
+  <img src="https://github.com/user-attachments/assets/1cf8b003-cdc9-40c0-8d5e-74c8e04d4b90" width="400"/>
 </p>
 <h1 align="center">47th-web</h1>
 <p align="center">
@@ -28,7 +28,9 @@ KAPA 41기 박우석, 42기 최승아가 제작하였습니다.
 ## 📹 Screen Shots
 
 <p align="center">
-  <!-- 캡처이미지 -->
+  
+![47-web](https://github.com/user-attachments/assets/5927c758-5107-4a9c-83d2-73dc5b628220)
+
 </p>
 
 ---
